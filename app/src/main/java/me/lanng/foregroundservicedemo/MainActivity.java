@@ -6,6 +6,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+/**
+ * Created by Henrik Lanng
+ * Inspiration from https://developer.android.com/guide/topics/ui/notifiers/notifications.html
+ * http://lanng.me/wordpress
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
