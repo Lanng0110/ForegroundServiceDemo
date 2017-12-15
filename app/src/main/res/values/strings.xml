@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Foreground Service Demo</string>
+    <string name="startService">Start Foreground Service</string>
+    <string name="stopService">Stop Foreground Service</string>
+    <string name="notificationChannelName">Notification Channel Name</string>
+    <string name="notificationTitle">Notification Title!</string>
+    <string name="notificationDesc">Notification Description</string>
 </resources>
